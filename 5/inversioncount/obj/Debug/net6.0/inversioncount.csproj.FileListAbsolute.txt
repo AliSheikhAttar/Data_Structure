@@ -1,0 +1,15 @@
+E:\5\DS\Assignments\5\inversioncount\bin\Debug\net6.0\inversioncount.exe
+E:\5\DS\Assignments\5\inversioncount\bin\Debug\net6.0\inversioncount.deps.json
+E:\5\DS\Assignments\5\inversioncount\bin\Debug\net6.0\inversioncount.runtimeconfig.json
+E:\5\DS\Assignments\5\inversioncount\bin\Debug\net6.0\inversioncount.dll
+E:\5\DS\Assignments\5\inversioncount\bin\Debug\net6.0\inversioncount.pdb
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.csproj.AssemblyReference.cache
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.GeneratedMSBuildEditorConfig.editorconfig
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.AssemblyInfoInputs.cache
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.AssemblyInfo.cs
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.csproj.CoreCompileInputs.cache
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.dll
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\refint\inversioncount.dll
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.pdb
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\inversioncount.genruntimeconfig.cache
+E:\5\DS\Assignments\5\inversioncount\obj\Debug\net6.0\ref\inversioncount.dll

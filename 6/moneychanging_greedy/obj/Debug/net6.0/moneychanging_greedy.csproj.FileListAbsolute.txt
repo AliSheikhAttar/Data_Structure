@@ -1,0 +1,15 @@
+E:\5\DS\Assignments\6\moneychanging_greedy\bin\Debug\net6.0\moneychanging_greedy.exe
+E:\5\DS\Assignments\6\moneychanging_greedy\bin\Debug\net6.0\moneychanging_greedy.deps.json
+E:\5\DS\Assignments\6\moneychanging_greedy\bin\Debug\net6.0\moneychanging_greedy.runtimeconfig.json
+E:\5\DS\Assignments\6\moneychanging_greedy\bin\Debug\net6.0\moneychanging_greedy.dll
+E:\5\DS\Assignments\6\moneychanging_greedy\bin\Debug\net6.0\moneychanging_greedy.pdb
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.csproj.AssemblyReference.cache
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.GeneratedMSBuildEditorConfig.editorconfig
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.AssemblyInfoInputs.cache
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.AssemblyInfo.cs
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.csproj.CoreCompileInputs.cache
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.dll
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\refint\moneychanging_greedy.dll
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.pdb
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\moneychanging_greedy.genruntimeconfig.cache
+E:\5\DS\Assignments\6\moneychanging_greedy\obj\Debug\net6.0\ref\moneychanging_greedy.dll

@@ -1,0 +1,15 @@
+E:\5\DS\Assignments\6\moneychanging_dynamic\bin\Debug\net6.0\moneychanging_dynamic.exe
+E:\5\DS\Assignments\6\moneychanging_dynamic\bin\Debug\net6.0\moneychanging_dynamic.deps.json
+E:\5\DS\Assignments\6\moneychanging_dynamic\bin\Debug\net6.0\moneychanging_dynamic.runtimeconfig.json
+E:\5\DS\Assignments\6\moneychanging_dynamic\bin\Debug\net6.0\moneychanging_dynamic.dll
+E:\5\DS\Assignments\6\moneychanging_dynamic\bin\Debug\net6.0\moneychanging_dynamic.pdb
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.csproj.AssemblyReference.cache
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.AssemblyInfoInputs.cache
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.AssemblyInfo.cs
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.csproj.CoreCompileInputs.cache
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.dll
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\refint\moneychanging_dynamic.dll
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.pdb
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\moneychanging_dynamic.genruntimeconfig.cache
+E:\5\DS\Assignments\6\moneychanging_dynamic\obj\Debug\net6.0\ref\moneychanging_dynamic.dll

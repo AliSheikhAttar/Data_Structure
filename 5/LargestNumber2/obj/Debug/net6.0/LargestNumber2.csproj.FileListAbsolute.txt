@@ -1,0 +1,15 @@
+E:\5\DS\Assignments\5\LargestNumber2\bin\Debug\net6.0\LargestNumber2.exe
+E:\5\DS\Assignments\5\LargestNumber2\bin\Debug\net6.0\LargestNumber2.deps.json
+E:\5\DS\Assignments\5\LargestNumber2\bin\Debug\net6.0\LargestNumber2.runtimeconfig.json
+E:\5\DS\Assignments\5\LargestNumber2\bin\Debug\net6.0\LargestNumber2.dll
+E:\5\DS\Assignments\5\LargestNumber2\bin\Debug\net6.0\LargestNumber2.pdb
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.csproj.AssemblyReference.cache
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.GeneratedMSBuildEditorConfig.editorconfig
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.AssemblyInfoInputs.cache
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.AssemblyInfo.cs
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.csproj.CoreCompileInputs.cache
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.dll
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\refint\LargestNumber2.dll
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.pdb
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\LargestNumber2.genruntimeconfig.cache
+E:\5\DS\Assignments\5\LargestNumber2\obj\Debug\net6.0\ref\LargestNumber2.dll

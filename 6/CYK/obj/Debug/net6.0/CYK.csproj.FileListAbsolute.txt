@@ -1,0 +1,15 @@
+E:\5\DS\Assignments\6\CYK\bin\Debug\net6.0\CYK.exe
+E:\5\DS\Assignments\6\CYK\bin\Debug\net6.0\CYK.deps.json
+E:\5\DS\Assignments\6\CYK\bin\Debug\net6.0\CYK.runtimeconfig.json
+E:\5\DS\Assignments\6\CYK\bin\Debug\net6.0\CYK.dll
+E:\5\DS\Assignments\6\CYK\bin\Debug\net6.0\CYK.pdb
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.csproj.AssemblyReference.cache
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.GeneratedMSBuildEditorConfig.editorconfig
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.AssemblyInfoInputs.cache
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.AssemblyInfo.cs
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.csproj.CoreCompileInputs.cache
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.dll
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\refint\CYK.dll
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.pdb
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\CYK.genruntimeconfig.cache
+E:\5\DS\Assignments\6\CYK\obj\Debug\net6.0\ref\CYK.dll
