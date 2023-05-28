@@ -6,4 +6,4 @@ implementing different data structures and algorithms in 7 Assignments<br />
 - 4: Hash
 - 5: Insertion sort, Selection sort, Quick sort, bubble sort, merge sort, heap sort, Linear sorts: counting sort Radix sort, Bucket sort
 - 6: Dynamic Programming, Greedy and CYK
-- 7: MST, Shortest Path and RedBlackTree
+- 7: MST, BFS, DFS, Dijkstra ,Kruskal, Prim, Shortest Path and RedBlackTree
